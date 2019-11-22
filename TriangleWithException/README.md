@@ -9,7 +9,7 @@
 
 #### 定义一个名为 IllegalTriangleException 的异常类：<br/>
 * 继承类 `java.lang.Exception`。 <br/>
-* 按照父类'Exception'的所有构造方法为`IllegalTriangleException`定义构造方法，每个方法都直接调用对应的父类构造方法。<br/>
+* 按照父类`Exception`的所有构造方法为`IllegalTriangleException`定义构造方法，每个方法都直接调用对应的父类构造方法。<br/>
 
 
 #### 定义一个名为 Triangle 类表示三角形：<br/>
